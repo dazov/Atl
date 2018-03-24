@@ -1247,7 +1247,7 @@
                 "itemPrice": "72 Руб.",
                 "oldPriceValue": "$84",
                 "sale": "-50%",
-                "button": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amount=72&item_name=Custom+Item&currency_code=RUB\" class=\"btn btn-info display-7 note-air-editor note-editable\">Добавить в корзину</a>",
+                "button": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amount=72&item_name=%D0%9F%D0%BE%D1%80%D0%BE%D1%88%D0%BE%D0%BA&currency_code=RUB\" class=\"btn btn-info display-7 note-editable note-air-editor\">Добавить в корзину</a>",
                 "image": "@PROJECT_PATH@/assets/images/00000016408_stiralnyj_poroshok_ushastyj_njan_400_gr-0-large.-582x800.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/00000016408-stiralnyj-poroshok-ushastyj-njan-400-gr-0-large.-582x800-582x800.jpg",
                 "customStyle5": "display-5",
